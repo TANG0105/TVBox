@@ -107,7 +107,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/玩偶哥哥.json",
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
       "jar": "./jar/custom_spider.jar;md5;d7fab2b5e4d61bc9bc66b7c7910df457"
     },
     {
